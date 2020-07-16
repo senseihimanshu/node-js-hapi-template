@@ -1,6 +1,6 @@
 {
     "development": {
-        "url": "mysql://root:password@localhost/temp_dev",
+        "url": "mysql://root:sensei@localhost/db_cab_booking",
         "logging": true,
         "options": {
             "dialect": "mysql",
